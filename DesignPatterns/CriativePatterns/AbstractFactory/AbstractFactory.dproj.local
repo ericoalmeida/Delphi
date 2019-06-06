@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/04/06 17:44:22.000.503,=C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/06 17:45:25.000.738,=C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/06 18:19:31.000.638,=C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/07 07:18:24.000.404,=C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/08 16:34:42.000.763,=C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/18 19:55:16.000.341,=C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/06 12:31:18.903,=C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/06 12:33:02.383,C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\Main.View.pas=C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/06 12:33:02.383,C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\Main.View.fmx=C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2019/06/06 12:33:14.389,C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\AbstractFactory.dproj=C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/06/06 12:34:05.966,=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\Unit1.pas</Transaction>
+    <Transaction>2019/06/06 12:34:51.356,C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\Animal.Interf.pas=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\Unit1.pas</Transaction>
+    <Transaction>2019/06/06 12:39:46.625,=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\Unit1.pas</Transaction>
+    <Transaction>2019/06/06 12:40:04.643,C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\DFe.Interf.pas=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\Animal.Interf.pas</Transaction>
+    <Transaction>2019/06/06 12:41:30.470,C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\NotaFiscalEletronical.Model.pas=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\Unit1.pas</Transaction>
+    <Transaction>2019/06/06 13:05:43.596,=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\Unit1.pas</Transaction>
+    <Transaction>2019/06/06 13:06:03.767,C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\NotaConsumidorEletronical.Model.pas=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\Unit1.pas</Transaction>
+    <Transaction>2019/06/06 13:07:21.351,=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\Unit1.pas</Transaction>
+    <Transaction>2019/06/06 13:07:50.473,C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\ConhecimentoTransporteEletronico.Model.pas=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\Unit1.pas</Transaction>
+    <Transaction>2019/06/06 13:09:09.215,=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\Unit1.pas</Transaction>
+    <Transaction>2019/06/06 13:09:53.385,C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\DFeFactoryModel.pas=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\Unit1.pas</Transaction>
+    <Transaction>2019/06/06 13:10:20.968,C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\DFeModel.Interf.pas=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\DFe.Interf.pas</Transaction>
+  </Transactions>  <ActiveMobileDevice>   <NoProfile iOSSimulator="iPhone5"/>
+  </ActiveMobileDevice>
+</BorlandProject>
