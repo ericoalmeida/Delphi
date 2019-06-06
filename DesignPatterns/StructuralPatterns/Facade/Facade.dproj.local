@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/04/06 17:44:22.000.503,=C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/06 17:45:25.000.738,=C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/06 18:19:31.000.638,=C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/07 07:18:24.000.404,=C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/08 16:34:42.000.763,=C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/18 19:55:16.000.341,=C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/06 12:31:18.000.903,=C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/06 12:33:02.000.383,C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\Main.View.fmx</Transaction>
+    <Transaction>2019/06/06 12:33:02.000.383,C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\Main.View.pas</Transaction>
+    <Transaction>2019/06/06 12:33:14.000.389,C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\AbstractFactory.dproj</Transaction>
+    <Transaction>2019/06/06 12:34:05.000.966,=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\Unit1.pas</Transaction>
+    <Transaction>2019/06/06 12:34:51.000.356,C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\Unit1.pas=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\Animal.Interf.pas</Transaction>
+    <Transaction>2019/06/06 12:39:46.000.625,=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\Unit1.pas</Transaction>
+    <Transaction>2019/06/06 12:40:04.000.643,C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\Animal.Interf.pas=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\DFe.Interf.pas</Transaction>
+    <Transaction>2019/06/06 12:41:30.000.470,C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\Unit1.pas=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\NotaFiscalEletronical.Model.pas</Transaction>
+    <Transaction>2019/06/06 13:05:43.000.596,=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\Unit1.pas</Transaction>
+    <Transaction>2019/06/06 13:06:03.000.767,C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\Unit1.pas=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\NotaConsumidorEletronical.Model.pas</Transaction>
+    <Transaction>2019/06/06 13:07:21.000.351,=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\Unit1.pas</Transaction>
+    <Transaction>2019/06/06 13:07:50.000.473,C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\Unit1.pas=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\ConhecimentoTransporteEletronico.Model.pas</Transaction>
+    <Transaction>2019/06/06 13:09:09.000.215,=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\Unit1.pas</Transaction>
+    <Transaction>2019/06/06 13:09:53.000.385,C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\Unit1.pas=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\DFeFactoryModel.pas</Transaction>
+    <Transaction>2019/06/06 13:10:20.000.968,C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\DFe.Interf.pas=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\DFeModel.Interf.pas</Transaction>
+    <Transaction>2019/06/06 19:00:16.632,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\Facade.dproj=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\AbstractFactory.dproj</Transaction>
+    <Transaction>2019/06/06 19:01:44.663,=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\Unit1.pas</Transaction>
+    <Transaction>2019/06/06 19:02:07.292,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\SpedModel.Interf.pas=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\Unit1.pas</Transaction>
+    <Transaction>2019/06/06 19:06:15.198,=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\Unit1.pas</Transaction>
+    <Transaction>2019/06/06 19:06:33.212,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\FacadeModel.interf.pas=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\Unit1.pas</Transaction>
+    <Transaction>2019/06/06 19:16:50.079,=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\Unit1.pas</Transaction>
+    <Transaction>2019/06/06 19:17:59.500,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\SpedFiscalModel.pas=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\Unit1.pas</Transaction>
+    <Transaction>2019/06/06 19:20:50.874,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\Sped\SpedFiscalModel.pas=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\SpedFiscalModel.pas</Transaction>
+    <Transaction>2019/06/06 19:21:00.681,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\Sped\SpedModel.Interf.pas=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\SpedModel.Interf.pas</Transaction>
+    <Transaction>2019/06/06 19:21:57.159,=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\Unit1.pas</Transaction>
+    <Transaction>2019/06/06 19:22:22.516,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\Sped\SpedConstribuicoesModel.pas=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\Unit1.pas</Transaction>
+    <Transaction>2019/06/06 19:25:40.719,=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\Unit1.pas</Transaction>
+    <Transaction>2019/06/06 19:26:24.627,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\Sped\SpedFactory.pas=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\Unit1.pas</Transaction>
+    <Transaction>2019/06/06 19:29:28.373,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\Sped\Sped.Interf.pas=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\Sped\SpedModel.Interf.pas</Transaction>
+    <Transaction>2019/06/06 19:30:46.398,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\Sped\SpedFiscal.pas=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\Sped\SpedFiscalModel.pas</Transaction>
+    <Transaction>2019/06/06 19:30:55.234,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\Sped\SpedConstribuicoes.pas=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\Sped\SpedConstribuicoesModel.pas</Transaction>
+    <Transaction>2019/06/06 19:32:59.894,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\DFe.Interf.pas=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\DFeModel.Interf.pas</Transaction>
+    <Transaction>2019/06/06 19:33:26.320,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\DFe\DFe.Interf.pas=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\DFe.Interf.pas</Transaction>
+    <Transaction>2019/06/06 19:33:53.372,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\DFe\NotaConsumidorEletronical.Model.pas=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\NotaConsumidorEletronical.Model.pas</Transaction>
+    <Transaction>2019/06/06 19:34:13.220,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\DFe\NotaFiscalEletronical.Model.pas=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\NotaFiscalEletronical.Model.pas</Transaction>
+    <Transaction>2019/06/06 19:35:57.177,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\DFe\ConhecimentoTransporteEletronico.Model.pas=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\ConhecimentoTransporteEletronico.Model.pas</Transaction>
+    <Transaction>2019/06/06 19:36:27.730,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\DFe\DFeFactoryModel.pas=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\DFeFactoryModel.pas</Transaction>
+    <Transaction>2019/06/06 19:39:35.980,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\DFe\ConhecimentoTransporteEletronico.pas=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\DFe\ConhecimentoTransporteEletronico.Model.pas</Transaction>
+    <Transaction>2019/06/06 19:39:48.581,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\DFe\NotaConsumidorEletronical.pas=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\DFe\NotaConsumidorEletronical.Model.pas</Transaction>
+    <Transaction>2019/06/06 19:40:04.346,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\DFe\NotaFiscalEletronica.pas=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\DFe\NotaFiscalEletronical.Model.pas</Transaction>
+    <Transaction>2019/06/06 19:42:14.656,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\DFe\DFeFactory.pas=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\DFe\DFeFactoryModel.pas</Transaction>
+    <Transaction>2019/06/06 19:44:26.876,=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\Unit1.pas</Transaction>
+    <Transaction>2019/06/06 19:44:48.773,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\Facade.interf.pas=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\FacadeModel.interf.pas</Transaction>
+    <Transaction>2019/06/06 19:45:28.750,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\FacadeModel.pas=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\Unit1.pas</Transaction>
+    <Transaction>2019/06/06 19:45:40.475,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\FacadeModel.interf.pas=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Facade\Facade.interf.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>  <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="android-support-v4.dex.jar"/>
+    <File Path="cloud-messaging.dex.jar"/>
+    <File Path="fmx.dex.jar"/>
+    <File Path="google-analytics-v2.dex.jar"/>
+    <File Path="google-play-billing.dex.jar"/>
+    <File Path="google-play-licensing.dex.jar"/>
+    <File Path="google-play-services-ads-7.0.0.dex.jar"/>
+    <File Path="google-play-services-analytics-7.0.0.dex.jar"/>
+    <File Path="google-play-services-base-7.0.0.dex.jar"/>
+    <File Path="google-play-services-gcm-7.0.0.dex.jar"/>
+    <File Path="google-play-services-identity-7.0.0.dex.jar"/>
+    <File Path="google-play-services-maps-7.0.0.dex.jar"/>
+    <File Path="google-play-services-panorama-7.0.0.dex.jar"/>
+    <File Path="google-play-services-plus-7.0.0.dex.jar"/>
+    <File Path="google-play-services-wallet-7.0.0.dex.jar"/>
+    <File Path="DFe"/>
+    <File Path="DFe\ConhecimentoTransporteEletronico.pas"/>
+    <File Path="DFe\DFe.Interf.pas"/>
+    <File Path="DFe\DFeFactory.pas"/>
+    <File Path="DFe\NotaConsumidorEletronical.pas"/>
+    <File Path="DFe\NotaFiscalEletronica.pas"/>
+    <File Path="Sped"/>
+    <File Path="Sped\Sped.Interf.pas"/>
+    <File Path="Sped\SpedConstribuicoes.pas"/>
+    <File Path="Sped\SpedFactory.pas"/>
+    <File Path="Sped\SpedFiscal.pas"/>
+    <File Path="FacadeModel.interf.pas"/>
+    <File Path="Main.View.pas"/>
+    <File Path="Main.View.fmx"/>
+    <File Path="FacadeModel.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>
