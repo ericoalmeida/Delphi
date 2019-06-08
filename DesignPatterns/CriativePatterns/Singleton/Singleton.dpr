@@ -4,9 +4,9 @@ uses
   System.StartUpCopy,
   FMX.Forms,
   Main.View in 'Main.View.pas' {Form1},
-  DFeModel.Interf in 'DFeModel.Interf.pas',
-  NotaFiscalEletronical.Model in 'NotaFiscalEletronical.Model.pas',
-  DFeFactoryModel in 'DFeFactoryModel.pas';
+  DFe.Interf in 'DFe\DFe.Interf.pas',
+  NotaFiscalEletronica in 'DFe\NotaFiscalEletronica.pas',
+  DFeFactory in 'DFe\DFeFactory.pas';
 
 {$R *.res}
 

@@ -32,7 +32,7 @@ implementation
   *   a unit da fabrica, diminuindo assim o acoplamento.
   * }
 
-uses DFeFactoryModel, DFeModel.Interf;
+uses DFeFactory, DFe.Interf;
 
 procedure TForm1.BTExecutarClick(Sender: TObject);
 Var

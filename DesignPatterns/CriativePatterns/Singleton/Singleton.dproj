@@ -365,9 +365,9 @@
             <Form>Form1</Form>
             <FormType>fmx</FormType>
         </DCCReference>
-        <DCCReference Include="DFeModel.Interf.pas"/>
-        <DCCReference Include="NotaFiscalEletronical.Model.pas"/>
-        <DCCReference Include="DFeFactoryModel.pas"/>
+        <DCCReference Include="DFe\DFe.Interf.pas"/>
+        <DCCReference Include="DFe\NotaFiscalEletronica.pas"/>
+        <DCCReference Include="DFe\DFeFactory.pas"/>
         <BuildConfiguration Include="Release">
             <Key>Cfg_2</Key>
             <CfgParent>Base</CfgParent>

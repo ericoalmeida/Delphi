@@ -1,8 +1,8 @@
-unit DFeFactoryModel;
+unit DFeFactory;
 
 interface
 
-uses DFeModel.Interf;
+uses DFe.Interf;
 
 type
   TDFeFactoryModel = class(TInterfacedObject, IDFeFactory)
@@ -19,7 +19,7 @@ implementation
 
 { TDFeFactoryModel }
 
-uses NotaFiscalEletronical.Model;
+uses NotaFiscalEletronica;
 
 constructor TDFeFactoryModel.Create;
 begin

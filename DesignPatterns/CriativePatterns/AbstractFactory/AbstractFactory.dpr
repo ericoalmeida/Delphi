@@ -4,11 +4,11 @@ uses
   System.StartUpCopy,
   FMX.Forms,
   Main.View in 'Main.View.pas' {Form1},
-  DFeModel.Interf in 'DFeModel.Interf.pas',
-  NotaFiscalEletronical.Model in 'NotaFiscalEletronical.Model.pas',
-  NotaConsumidorEletronical.Model in 'NotaConsumidorEletronical.Model.pas',
-  ConhecimentoTransporteEletronico.Model in 'ConhecimentoTransporteEletronico.Model.pas',
-  DFeFactoryModel in 'DFeFactoryModel.pas';
+  DFe.Interf in 'DFe\DFe.Interf.pas',
+  NotaFiscalEletronical in 'DFe\NotaFiscalEletronical.pas',
+  NotaConsumidorEletronical in 'DFe\NotaConsumidorEletronical.pas',
+  ConhecimentoTransporteEletronico in 'DFe\ConhecimentoTransporteEletronico.pas',
+  DFeFactory in 'DFe\DFeFactory.pas';
 
 {$R *.res}
 

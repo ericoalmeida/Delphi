@@ -8,8 +8,8 @@
     <Transaction>2019/04/08 16:34:42.000.763,=C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2019/04/18 19:55:16.000.341,=C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2019/06/06 12:31:18.000.903,=C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2019/06/06 12:33:02.000.383,C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\Main.View.pas</Transaction>
     <Transaction>2019/06/06 12:33:02.000.383,C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\Main.View.fmx</Transaction>
+    <Transaction>2019/06/06 12:33:02.000.383,C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\Main.View.pas</Transaction>
     <Transaction>2019/06/06 12:33:14.000.389,C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\AbstractFactory.dproj</Transaction>
     <Transaction>2019/06/06 12:34:05.000.966,=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\Unit1.pas</Transaction>
     <Transaction>2019/06/06 12:34:51.000.356,C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\Unit1.pas=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\Animal.Interf.pas</Transaction>
@@ -26,6 +26,14 @@
     <Transaction>2019/06/08 07:46:34.000.709,C:\Projetos\Delphi\DesignPatterns\CriativePatterns\Singleton\AbstractFactory.dproj=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\Singleton\Singleton.dproj</Transaction>
     <Transaction>2019/06/08 08:21:55.000.523,C:\Projetos\Delphi\DesignPatterns\CriativePatterns\Singleton\NotaConsumidorEletronical.Model.pas=</Transaction>
     <Transaction>2019/06/08 08:22:07.000.723,C:\Projetos\Delphi\DesignPatterns\CriativePatterns\Singleton\ConhecimentoTransporteEletronico.Model.pas=</Transaction>
+    <Transaction>2019/06/08 09:32:56.000.179,C:\Projetos\Delphi\DesignPatterns\CriativePatterns\Singleton\DFeModel.Interf.pas=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\Singleton\DFe\DFeModel.Interf.pas</Transaction>
+    <Transaction>2019/06/08 09:33:09.000.287,C:\Projetos\Delphi\DesignPatterns\CriativePatterns\Singleton\DFeFactoryModel.pas=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\Singleton\DFe\DFeFactoryModel.pas</Transaction>
+    <Transaction>2019/06/08 09:33:20.000.911,C:\Projetos\Delphi\DesignPatterns\CriativePatterns\Singleton\NotaFiscalEletronical.Model.pas=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\Singleton\DFe\NotaFiscalEletronical.Model.pas</Transaction>
+    <Transaction>2019/06/08 09:46:10.000.557,C:\Projetos\Delphi\DesignPatterns\CriativePatterns\Singleton\DFe\DFeModel.Interf.pas=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\Singleton\DFe\DFeModel.pas</Transaction>
+    <Transaction>2019/06/08 09:46:56.000.499,C:\Projetos\Delphi\DesignPatterns\CriativePatterns\Singleton\DFe\DFeModel.pas=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\Singleton\DFe\DFe.Interf.pas</Transaction>
+    <Transaction>2019/06/08 09:47:25.000.918,C:\Projetos\Delphi\DesignPatterns\CriativePatterns\Singleton\DFe\DFeFactoryModel.pas=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\Singleton\DFe\DFeFactory.pas</Transaction>
+    <Transaction>2019/06/08 09:47:40.000.268,C:\Projetos\Delphi\DesignPatterns\CriativePatterns\Singleton\DFe\NotaFiscalEletronical.Model.pas=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\Singleton\DFe\NotaFiscalEletronical.pas</Transaction>
+    <Transaction>2019/06/08 09:59:32.935,C:\Projetos\Delphi\DesignPatterns\CriativePatterns\Singleton\DFe\NotaFiscalEletronica.pas=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\Singleton\DFe\NotaFiscalEletronical.pas</Transaction>
   </Transactions>
 	<ActiveMobileDevice>
 		<NoProfile iOSSimulator="iPhone5"/>

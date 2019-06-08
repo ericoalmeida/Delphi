@@ -1,8 +1,8 @@
-unit NotaFiscalEletronical.Model;
+unit NotaFiscalEletronica;
 
 interface
 
-uses DFeModel.Interf, System.Classes, System.SysUtils;
+uses DFe.Interf, System.Classes, System.SysUtils;
 
 type
   TNotaFiscalEletronicaModel = class(TInterfacedObject, IDFe)
