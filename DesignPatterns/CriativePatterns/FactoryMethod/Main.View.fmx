@@ -1,0 +1,56 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Factory Method'
+  ClientHeight = 284
+  ClientWidth = 483
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object MMExibir: TMemo
+    Touch.InteractiveGestures = [Pan, LongTap, DoubleTap]
+    DataDetectorTypes = []
+    Position.X = 35.000000000000000000
+    Position.Y = 136.000000000000000000
+    Size.Width = 400.000000000000000000
+    Size.Height = 100.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    Viewport.Width = 396.000000000000000000
+    Viewport.Height = 96.000000000000000000
+  end
+  object CBDFe: TComboBox
+    Items.Strings = (
+      'Nota Fiscal Eletronica'
+      'Nota Fiscal Consumidor Eletronica'
+      'Conhecimento de Transporte Eletronico')
+    ItemIndex = 0
+    Position.X = 81.000000000000000000
+    Position.Y = 8.000000000000000000
+    Size.Width = 300.000000000000000000
+    Size.Height = 41.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+  end
+  object BTExecutar: TButton
+    Position.X = 81.000000000000000000
+    Position.Y = 56.000000000000000000
+    Size.Width = 300.000000000000000000
+    Size.Height = 35.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 2
+    Text = 'Executar'
+    OnClick = BTExecutarClick
+  end
+  object BTLimpar: TButton
+    Position.X = 81.000000000000000000
+    Position.Y = 93.000000000000000000
+    Size.Width = 300.000000000000000000
+    Size.Height = 35.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 3
+    Text = 'Limpar'
+    OnClick = BTLimparClick
+  end
+end

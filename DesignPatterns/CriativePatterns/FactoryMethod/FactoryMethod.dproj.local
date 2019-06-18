@@ -33,6 +33,7 @@
     <Transaction>2019/06/08 09:56:14.000.247,C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\ConhecimentoTransporteEletronico.pas=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\DFe\ConhecimentoTransporteEletronico.pas</Transaction>
     <Transaction>2019/06/08 09:56:24.000.833,C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\NotaConsumidorEletronical.pas=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\DFe\NotaConsumidorEletronical.pas</Transaction>
     <Transaction>2019/06/08 09:56:34.000.334,C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\NotaFiscalEletronical.pas=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\AbstractFactory\DFe\NotaFiscalEletronical.pas</Transaction>
+    <Transaction>2019/06/15 08:41:14.189,C:\Projetos\Delphi\DesignPatterns\CriativePatterns\FactoryMethod\FactoryMethod.dproj=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\FactoryMethod\AbstractFactory.dproj</Transaction>
   </Transactions>
 	<ActiveMobileDevice>
 		<NoProfile iOSSimulator="iPhone5"/>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/04/06 17:44:22.000.503,=C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/06 17:45:25.000.738,=C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/06 18:19:31.000.638,=C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/07 07:18:24.000.404,=C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/08 16:34:42.000.763,=C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/18 19:55:16.000.341,=C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/15 08:45:36.000.832,=C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/15 08:46:29.000.225,C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\Prototype\Main.View.fmx</Transaction>
+    <Transaction>2019/06/15 08:46:29.000.225,C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\Prototype\Main.View.pas</Transaction>
+    <Transaction>2019/06/15 08:46:37.000.717,C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\Prototype\Prototype.dproj</Transaction>
+    <Transaction>2019/06/18 08:46:44.469,=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\Prototype\Unit1.pas</Transaction>
+    <Transaction>2019/06/18 08:47:18.061,C:\Projetos\Delphi\DesignPatterns\CriativePatterns\Prototype\ItemModel.pas=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\Prototype\Unit1.pas</Transaction>
+    <Transaction>2019/06/18 08:47:49.983,=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\Prototype\Unit1.pas</Transaction>
+    <Transaction>2019/06/18 08:48:05.159,C:\Projetos\Delphi\DesignPatterns\CriativePatterns\Prototype\ItemModel.Interf.pas=C:\Projetos\Delphi\DesignPatterns\CriativePatterns\Prototype\Unit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>

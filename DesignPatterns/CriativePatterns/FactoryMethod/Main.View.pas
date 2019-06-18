@@ -28,24 +28,18 @@ implementation
 
 {$R *.fmx}
 
-{ *   Com o Padrão "Abstract Factory" implementado, na View so preciso declarar
+{ *   Com o Padrão "Factory Method" implementado, na View so preciso declarar
   *   a unit da fabrica, diminuindo assim o acoplamento.
   * }
 
 uses DFeFactory, DFe.Interf;
 
 procedure TForm1.BTExecutarClick(Sender: TObject);
-var
-  DFe: IDFe;
 begin
-  case CBDFe.ItemIndex of
-    0: DFe :=  TDFeFactory.New.NotaFiscalEletronica;
-    1: DFe :=  TDFeFactory.New.NotaFiscalConsumidorEletronica;
-    2: DFe :=  TDFeFactory.New.ConhecimentoTransporteEletronico;
-  end;
-
   MMExibir.Lines.Add(
-       DFe
+    TDFeFactory
+      .New
+       .DFe(TDFe(CBDFe.ItemIndex))
         .Emitir
   );
 end;

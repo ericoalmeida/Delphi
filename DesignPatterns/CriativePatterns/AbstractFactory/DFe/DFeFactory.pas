@@ -12,7 +12,9 @@ type
 
     class function New: IDFeFactory;
 
-    function DFe(AValue: TDFe): IDFe;
+    function NotaFiscalEletronica: IDFe;
+    function NotaFiscalConsumidorEletronica: IDFe;
+    function ConhecimentoTransporteEletronico: IDFe;
   end;
 
 implementation
@@ -21,6 +23,11 @@ implementation
 
 uses ConhecimentoTransporteEletronico, NotaConsumidorEletronical,
   NotaFiscalEletronical;
+
+function TDFeFactory.ConhecimentoTransporteEletronico: IDFe;
+begin
+  Result := TConhecimentoTransporte.New;
+end;
 
 constructor TDFeFactory.Create;
 begin
@@ -33,18 +40,19 @@ begin
   inherited;
 end;
 
-function TDFeFactory.DFe(AValue: TDFe): IDFe;
-begin
-  case AValue of
-    dfeNotaFiscalEletronica             : Result := TNotaFiscalEletronica.New;
-    dfeNotaConsumidorEletronica         : Result := TNotaConsumidorEletronica.New;
-    dfeConhecimentoTransporteEletronico : Result := TConhecimentoTransporte.New;
-  end;
-end;
-
 class function TDFeFactory.New: IDFeFactory;
 begin
   Result := Self.Create;
+end;
+
+function TDFeFactory.NotaFiscalConsumidorEletronica: IDFe;
+begin
+  Result := TNotaConsumidorEletronica.New;
+end;
+
+function TDFeFactory.NotaFiscalEletronica: IDFe;
+begin
+  Result := TNotaFiscalEletronica.New;
 end;
 
 end.
