@@ -1,0 +1,21 @@
+object FMainView: TFMainView
+  Left = 0
+  Top = 0
+  Caption = 'Conex'#227'o MVVM ORMBr'
+  ClientHeight = 353
+  ClientWidth = 568
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object BTConexao: TButton
+    Position.X = 32.000000000000000000
+    Position.Y = 24.000000000000000000
+    Size.Width = 153.000000000000000000
+    Size.Height = 57.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    Text = 'Conex'#227'o'
+    OnClick = BTConexaoClick
+  end
+end

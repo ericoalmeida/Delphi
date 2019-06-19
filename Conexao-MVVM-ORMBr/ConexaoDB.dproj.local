@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/04/06 17:44:22.000.503,=C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/06 17:45:25.000.738,=C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/06 18:19:31.000.638,=C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/07 07:18:24.000.404,=C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/08 16:34:42.000.763,=C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/18 19:55:16.000.341,=C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/19 11:39:15.000.768,=C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/19 11:41:00.000.934,C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Projetos\Delphi\Conexao-MVVM-ORMBr\Views\Main.View.fmx</Transaction>
+    <Transaction>2019/06/19 11:41:00.000.934,C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Projetos\Delphi\Conexao-MVVM-ORMBr\Views\Main.View.pas</Transaction>
+    <Transaction>2019/06/19 11:41:40.000.221,C:\Users\Erico Almeida\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Projetos\Delphi\Conexao-MVVM-ORMBr\ConexaoDB.dproj</Transaction>
+    <Transaction>2019/06/19 11:43:46.000.835,=C:\Projetos\Delphi\Conexao-MVVM-ORMBr\Unit1.pas</Transaction>
+    <Transaction>2019/06/19 11:44:07.000.571,C:\Projetos\Delphi\Conexao-MVVM-ORMBr\Unit1.pas=C:\Projetos\Delphi\Conexao-MVVM-ORMBr\Models\ConexaoDB.Model.Interf.pas</Transaction>
+    <Transaction>2019/06/19 11:44:56.000.236,C:\Projetos\Delphi\Conexao-MVVM-ORMBr\Models\ConexaoDB.Model.Interf.pas=C:\Projetos\Delphi\Conexao-MVVM-ORMBr\Models\ConexaoDBFacade.Model.Interf.pas</Transaction>
+    <Transaction>2019/06/19 11:45:05.000.816,=C:\Projetos\Delphi\Conexao-MVVM-ORMBr\Unit1.pas</Transaction>
+    <Transaction>2019/06/19 11:45:18.000.684,C:\Projetos\Delphi\Conexao-MVVM-ORMBr\Unit1.pas=C:\Projetos\Delphi\Conexao-MVVM-ORMBr\Models\ConexaoDBFacade.Model.pas</Transaction>
+    <Transaction>2019/06/19 11:48:00.000.844,=C:\Projetos\Delphi\Conexao-MVVM-ORMBr\Unit1.pas</Transaction>
+    <Transaction>2019/06/19 11:48:20.000.264,C:\Projetos\Delphi\Conexao-MVVM-ORMBr\Unit1.pas=C:\Projetos\Delphi\Conexao-MVVM-ORMBr\Models\Conexao\Conexao.Model.Interf.pas</Transaction>
+    <Transaction>2019/06/19 11:48:32.000.738,=C:\Projetos\Delphi\Conexao-MVVM-ORMBr\Unit1.pas</Transaction>
+    <Transaction>2019/06/19 11:48:52.000.381,C:\Projetos\Delphi\Conexao-MVVM-ORMBr\Unit1.pas=C:\Projetos\Delphi\Conexao-MVVM-ORMBr\Models\Conexao\ConexaoFactory.Model.Interf.pas</Transaction>
+    <Transaction>2019/06/19 11:48:59.000.730,=C:\Projetos\Delphi\Conexao-MVVM-ORMBr\Unit1.pas</Transaction>
+    <Transaction>2019/06/19 11:49:19.000.319,C:\Projetos\Delphi\Conexao-MVVM-ORMBr\Unit1.pas=C:\Projetos\Delphi\Conexao-MVVM-ORMBr\Models\Conexao\ConexaoFactory.Model.pas</Transaction>
+    <Transaction>2019/06/19 11:54:04.000.372,=C:\Projetos\Delphi\Conexao-MVVM-ORMBr\Unit1.pas</Transaction>
+    <Transaction>2019/06/19 11:54:51.000.606,C:\Projetos\Delphi\Conexao-MVVM-ORMBr\Unit1.pas=C:\Projetos\Delphi\Conexao-MVVM-ORMBr\Models\Conexao\Firebird\DataMFirebird.Model.pas</Transaction>
+    <Transaction>2019/06/19 11:54:51.000.606,C:\Projetos\Delphi\Conexao-MVVM-ORMBr\Unit1.dfm=C:\Projetos\Delphi\Conexao-MVVM-ORMBr\Models\Conexao\Firebird\DataMFirebird.Model.dfm</Transaction>
+    <Transaction>2019/06/19 14:22:51.000.312,=C:\Projetos\Delphi\Conexao-MVVM-ORMBr\Models\Configuracoes\ConfigracoesFactory.Model.pas</Transaction>
+    <Transaction>2019/06/19 14:22:51.000.277,=C:\Projetos\Delphi\Conexao-MVVM-ORMBr\Models\Configuracoes\ConfigracoesFactory.Model.interf.pas</Transaction>
+    <Transaction>2019/06/19 14:23:05.000.442,=C:\Projetos\Delphi\Conexao-MVVM-ORMBr\Models\Configuracoes\Conexao\ConfigracoesConexao.Model.interf.pas</Transaction>
+    <Transaction>2019/06/19 14:23:08.000.869,=C:\Projetos\Delphi\Conexao-MVVM-ORMBr\Models\Configuracoes\Conexao\ConfigracoesConexao.Model.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>

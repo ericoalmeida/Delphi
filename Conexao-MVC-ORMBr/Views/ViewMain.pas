@@ -33,6 +33,8 @@ begin
    .New
     .ConexaoFactory
      .Conexao;
+
+     ShowMessage('Conectado com sucesso!!');
 end;
 
 end.
