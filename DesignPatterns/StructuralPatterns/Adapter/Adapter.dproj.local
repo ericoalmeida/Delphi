@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/10/24 13:52:41.000.590,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/30 15:29:50.000.916,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/11/23 09:33:46.691,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/11/23 09:45:58.334,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Adapter\MainView.fmx=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2019/11/23 09:45:58.334,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Adapter\MainView.pas=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/11/23 09:46:04.646,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Adapter\Adapter.dproj=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/11/23 09:49:06.584,=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Adapter\Unit1.pas</Transaction>
+    <Transaction>2019/11/23 09:49:21.834,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Adapter\adapter.mode.interf.pas=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Adapter\Unit1.pas</Transaction>
+    <Transaction>2019/11/23 10:02:36.084,=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Adapter\Unit1.pas</Transaction>
+    <Transaction>2019/11/23 10:02:59.178,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Adapter\Adapter.Model.Interf.pas=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Adapter\adapter.mode.interf.pas</Transaction>
+    <Transaction>2019/11/23 10:03:15.068,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Adapter\Itens.Model.Interf.pas=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Adapter\Unit1.pas</Transaction>
+    <Transaction>2019/11/23 10:19:55.016,=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Adapter\Unit1.pas</Transaction>
+    <Transaction>2019/11/23 10:20:24.641,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Adapter\Adapter.Controller.Itens.pas=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Adapter\Unit1.pas</Transaction>
+    <Transaction>2019/11/23 10:20:55.266,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Adapter\Itens.Model.pas=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Adapter\Itens.Model.Interf.pas</Transaction>
+    <Transaction>2019/11/23 10:21:06.172,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Adapter\Itens.Model.Interf.pas=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Adapter\Adapter.Model.Interf.pas</Transaction>
+    <Transaction>2019/11/23 10:22:43.997,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Adapter\Itens.pas=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Adapter\Adapter.Controller.Itens.pas</Transaction>
+    <Transaction>2019/11/23 10:22:56.000,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Adapter\Itens.Controller.Controller=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Adapter\Itens.Controller</Transaction>
+  </Transactions>
+</BorlandProject>
