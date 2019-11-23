@@ -2,3 +2,6 @@ dcu
 Windows
 __history
 __recovery
+Win32
+*.exe
+*.dcu
