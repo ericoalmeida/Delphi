@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/10/24 13:52:41.000.590,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/30 15:29:50.000.916,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/11/26 06:50:18.969,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/11/26 06:51:19.358,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Composite\MainView.pas=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/11/26 06:51:19.358,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Composite\MainView.fmx=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2019/11/26 06:51:24.896,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Composite\Composite.dproj=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/11/26 06:51:56.999,=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Composite\Unit1.pas</Transaction>
+    <Transaction>2019/11/26 06:52:12.314,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Composite\Composite.Model.Interf.pas=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Composite\Unit1.pas</Transaction>
+    <Transaction>2019/11/26 06:53:14.470,=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Composite\Unit1.pas</Transaction>
+    <Transaction>2019/11/26 06:53:29.625,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Composite\Venda.Model.pas=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Composite\Unit1.pas</Transaction>
+    <Transaction>2019/11/26 06:57:04.308,=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Composite\Unit1.pas</Transaction>
+    <Transaction>2019/11/26 06:57:18.442,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Composite\Itens.Model.pas=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Composite\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
