@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/10/24 13:52:41.000.590,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/30 15:29:50.000.916,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/11/25 22:41:07.000.507,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/11/25 22:41:56.000.523,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Bridge\MainView.fmx</Transaction>
+    <Transaction>2019/11/25 22:41:56.000.523,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Bridge\MainView.pas</Transaction>
+    <Transaction>2019/11/25 22:42:03.000.445,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Bridge\Bridge.dproj</Transaction>
+    <Transaction>2019/11/25 22:44:00.000.789,=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Bridge\Unit1.pas</Transaction>
+    <Transaction>2019/11/25 22:44:31.000.008,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Bridge\Unit1.pas=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Bridge\Bridge.model.interf.pas</Transaction>
+    <Transaction>2019/11/25 22:51:28.000.665,=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Bridge\Unit1.pas</Transaction>
+    <Transaction>2019/11/25 22:51:40.000.540,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Bridge\Unit1.pas=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Bridge\Venda.Model.Interf.pas</Transaction>
+    <Transaction>2019/11/25 23:04:33.000.697,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Bridge\Venda.Model.Interf.pas=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Bridge\Venda.Model..pas</Transaction>
+    <Transaction>2019/11/25 23:06:08.000.516,=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Bridge\Unit1.pas</Transaction>
+    <Transaction>2019/11/25 23:06:24.000.704,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Bridge\Unit1.pas=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Bridge\Venda.Model.pas</Transaction>
+    <Transaction>2019/11/25 23:16:16.161,=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Bridge\Unit1.pas</Transaction>
+    <Transaction>2019/11/25 23:16:40.349,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Bridge\SPEDC100.Model.pas=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Bridge\Unit1.pas</Transaction>
+    <Transaction>2019/11/25 23:31:38.569,=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Bridge\Unit1.pas</Transaction>
+    <Transaction>2019/11/25 23:31:57.116,C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Bridge\SPEDC190.Model.pas=C:\Projetos\Delphi\DesignPatterns\StructuralPatterns\Bridge\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
